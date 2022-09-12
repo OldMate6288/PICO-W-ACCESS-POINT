@@ -2,7 +2,7 @@
 Turns your Pico W into a Access Point which you can then connect to and view a webserver + LCD Support
 
 
-TO USE SIMPLY CHANGE THE SSID AND PASSWORD IN main.py TO YOUR LIKING. THEN EDIT THE WEBSERVER IF YOU WISH AND UPLOAD main.py, st7789.py and FONTS FOLDER TO THE PICO.
+TO USE SIMPLY CHANGE THE SSID AND PASSWORD IN main.py TO YOUR LIKING. THEN EDIT THE WEBSERVER IF YOU WISH AND UPLOAD main.py, st7789.py and fonts FOLDER TO THE PICO.
 
 This LCD example runs alot better than my previous code and uses the st7789 display driver instead of my custom one.
 
